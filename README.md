@@ -6,3 +6,7 @@
  Schematics and drawings may be found within the documentation folder (dimensions are in mm). 
  
  3D design / printing models are located under the 'Enclosure' folder.
+
+ ![Imgur](https://i.imgur.com/dLIf8jR.jpg)
+
+ ![Imgur](https://i.imgur.com/AIP3lvz.jpg)
